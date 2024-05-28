@@ -1,0 +1,71 @@
+Iterating through Basic Coffee Makers with Enhanced For Loop:
+********************************************************************
+
+BasicCoffeeMaker [name=Keurig]
+BasicCoffeeMaker [name=Nespresso]
+BasicCoffeeMaker [name=Mr. Coffee]
+BasicCoffeeMaker [name=Black and Decker]
+
+Iterating through Basic Coffee Makers with Iterator:
+********************************************************************
+
+BasicCoffeeMaker [name=Keurig]
+BasicCoffeeMaker [name=Nespresso]
+BasicCoffeeMaker [name=Mr. Coffee]
+BasicCoffeeMaker [name=Black and Decker]
+
+Iterating through Basic Coffee Makers with Linked List's Size() and Get():
+********************************************************************
+
+BasicCoffeeMaker [name=Keurig]
+BasicCoffeeMaker [name=Nespresso]
+BasicCoffeeMaker [name=Mr. Coffee]
+BasicCoffeeMaker [name=Black and Decker]
+
+Checking Whether Basic Coffee Makers are in List:
+********************************************************************
+
+BasicCoffeeMaker [name=Nespresso]
+Exists in basicList
+BasicCoffeeMaker [name=Not in list]
+Does not exist in basicList
+
+Sorted List:
+********************************************************************
+
+BasicCoffeeMaker [name=Black and Decker]
+BasicCoffeeMaker [name=Keurig]
+BasicCoffeeMaker [name=Mr. Coffee]
+BasicCoffeeMaker [name=Nespresso]
+
+Iterating through Premium Coffee Makers with Enhanced For Loop:
+********************************************************************
+
+PremiumCoffeeMaker [capacity=24, hasGrinder=true]
+PremiumCoffeeMaker [capacity=32, hasGrinder=true]
+PremiumCoffeeMaker [capacity=16, hasGrinder=false]
+PremiumCoffeeMaker [capacity=48, hasGrinder=false]
+
+Iterating through Premium Coffee Makers with Iterator:
+********************************************************************
+
+PremiumCoffeeMaker [capacity=24, hasGrinder=true]
+PremiumCoffeeMaker [capacity=32, hasGrinder=true]
+PremiumCoffeeMaker [capacity=16, hasGrinder=false]
+PremiumCoffeeMaker [capacity=48, hasGrinder=false]
+
+Iterating through Premium Coffee Makers with Linked List's Size() and Get():
+********************************************************************
+
+PremiumCoffeeMaker [capacity=24, hasGrinder=true]
+PremiumCoffeeMaker [capacity=32, hasGrinder=true]
+PremiumCoffeeMaker [capacity=16, hasGrinder=false]
+PremiumCoffeeMaker [capacity=48, hasGrinder=false]
+
+Sorted List:
+********************************************************************
+
+PremiumCoffeeMaker [capacity=16, hasGrinder=false]
+PremiumCoffeeMaker [capacity=24, hasGrinder=true]
+PremiumCoffeeMaker [capacity=32, hasGrinder=true]
+PremiumCoffeeMaker [capacity=48, hasGrinder=false]

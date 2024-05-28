@@ -1,0 +1,81 @@
+Importing bookHW4.txt
+-------------------------------------------------------------
+The Lord of the Rings,HARDBACK,120,29.99
+Book [numberOfPages=120, bookType=HARDBACK, title=The Lord of the Rings, price=29.99]
+In HashCode...
+successfully added book to HashSet
+And Then There Were None,SOFTBACK,156,19.99
+Book [numberOfPages=156, bookType=SOFTBACK, title=And Then There Were None, price=19.99]
+In HashCode...
+successfully added book to HashSet
+The Hobbit,HARDBACK,212,32.50
+Book [numberOfPages=212, bookType=HARDBACK, title=The Hobbit, price=32.5]
+In HashCode...
+successfully added book to HashSet
+Harry Potter and the Goblet of Fire,ELECTRONIC,-9,19.99
+Invalid Input Harry Potter and the Goblet of Fire,ELECTRONIC,-9,19.99
+The Da Vinci Code,HARDBACK,253,25.00
+Book [numberOfPages=253, bookType=HARDBACK, title=The Da Vinci Code, price=25.0]
+In HashCode...
+successfully added book to HashSet
+And Then There Were None,SOFTBACK,156,19.99
+Book [numberOfPages=156, bookType=SOFTBACK, title=And Then There Were None, price=19.99]
+In HashCode...
+In equals...
+Book was not added to HashSet
+Harry Potter and the Prisoner of Azkaban,HARDBACK,546,-99.00
+Invalid Input Harry Potter and the Prisoner of Azkaban,HARDBACK,546,-99.00
+Harry Potter and the Half-Blood Prince,ELECTRONIC,439,19.99
+Book [numberOfPages=439, bookType=ELECTRONIC, title=Harry Potter and the Half-Blood Prince, price=19.99]
+In HashCode...
+successfully added book to HashSet
+And Then There Were None,HARDBACK,156,39.99
+Book [numberOfPages=156, bookType=HARDBACK, title=And Then There Were None, price=39.99]
+In HashCode...
+successfully added book to HashSet
+Harry Potter and the Half-Blood Prince,ELECTRONIC,439,19.99
+Book [numberOfPages=439, bookType=ELECTRONIC, title=Harry Potter and the Half-Blood Prince, price=19.99]
+In HashCode...
+In equals...
+Book was not added to HashSet
+And Then There Were None,HARDBACK,156,39.99
+Book [numberOfPages=156, bookType=HARDBACK, title=And Then There Were None, price=39.99]
+In HashCode...
+In equals...
+Book was not added to HashSet
+The Soloman Curse,HARDBACK,829,23.95
+Book [numberOfPages=829, bookType=HARDBACK, title=The Soloman Curse, price=23.95]
+In HashCode...
+successfully added book to HashSet
+,HARDBACK,92,22.99
+Invalid Input ,HARDBACK,92,22.99
+American Sniper,HARDBACK,320,16.20
+Book [numberOfPages=320, bookType=HARDBACK, title=American Sniper, price=16.2]
+In HashCode...
+successfully added book to HashSet
+The Girl on the Train,SOFTBACK,391,23.87
+Book [numberOfPages=391, bookType=SOFTBACK, title=The Girl on the Train, price=23.87]
+In HashCode...
+successfully added book to HashSet
+
+Iterating through bookSet
+-------------------------------------------------------------
+Book [numberOfPages=320, bookType=HARDBACK, title=American Sniper, price=16.2]
+Book [numberOfPages=391, bookType=SOFTBACK, title=The Girl on the Train, price=23.87]
+Book [numberOfPages=439, bookType=ELECTRONIC, title=Harry Potter and the Half-Blood Prince, price=19.99]
+Book [numberOfPages=156, bookType=HARDBACK, title=And Then There Were None, price=39.99]
+Book [numberOfPages=156, bookType=SOFTBACK, title=And Then There Were None, price=19.99]
+Book [numberOfPages=829, bookType=HARDBACK, title=The Soloman Curse, price=23.95]
+Book [numberOfPages=253, bookType=HARDBACK, title=The Da Vinci Code, price=25.0]
+Book [numberOfPages=212, bookType=HARDBACK, title=The Hobbit, price=32.5]
+Book [numberOfPages=120, bookType=HARDBACK, title=The Lord of the Rings, price=29.99]
+
+Finding books in bookSet
+-------------------------------------------------------------
+In HashCode...
+In equals...
+Book [numberOfPages=829, bookType=HARDBACK, title=The Soloman Curse, price=23.95]
+Exists in bookSet
+In HashCode...
+Book [numberOfPages=629, bookType=HARDBACK, title=The BigBang Theory, price=87.0]
+Does not exist in bookSet

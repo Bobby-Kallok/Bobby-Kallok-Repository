@@ -1,0 +1,12 @@
+-- listing properties --
+log_file_name=assignment5.txt
+node_values=50,1.5;25,1.2;75,1.7;12,1.5;37,1.2;43...
+Minimum value of empty tree: null
+Maximum value of empty: null
+10 in empty tree: null
+
+Inorder traversal:  12 25 30 35 37 40 42 43 50 55 70 72 75 80 87 93 
+12 in tree: {12, 1.5} 
+80 in tree: {80, 1.2} 
+Minimum value: {12, 1.5} 
+Maximum value: {93, 1.6} 
