@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author robertkallok
- *
- */
-module client {
-}
